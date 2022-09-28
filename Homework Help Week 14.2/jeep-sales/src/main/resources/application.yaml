@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    username: jeep
+    password: jeep
+    url: jdbc:h2:mem:jeep;mode=MYSQL
